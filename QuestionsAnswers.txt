@@ -1,0 +1,7 @@
+answer 1 : 
+	there are 7 records in this table and there are 5 fields per record.
+answer 2:
+	we can't list the current table bu city but if we want to produce listing by city, we should modify the MANAGER_ADDRESS column more clearly.
+	So, it must be a separate column for the city name etc. This time we can produce listing by city.
+answer 3:
+	I open a seperate column for each.
